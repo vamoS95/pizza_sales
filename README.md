@@ -1,7 +1,5 @@
-# pizza_sales
-Pizza Sales Analytics Dashboard (Personal Project)
 Pizza Sales Analysis – SQL & Excel Portfolio Project
-Project Overview
+Overview
 This project is an end to end data analytics case study based on pizza sales data for the year 2015. It replicates a real client scenario where a business wants to validate dashboard numbers using SQL and visualize key metrics in an interactive Excel dashboard. The workflow covers requirement gathering, data loading into MS SQL Server, data cleaning, SQL analysis, and dashboard design in Excel
 
 Business Problem & Objectives
